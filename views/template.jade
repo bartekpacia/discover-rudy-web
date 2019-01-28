@@ -1,0 +1,40 @@
+extends layout
+
+block content
+  div.mdl-grid.mdl-grid--no-spacing.padding
+    div.mdl-cell--2-col.mdl-cell--hide-tablet.mdl-cell--hide-phone
+    div.mdl-cell--8-col
+      div.w3-content.w3-display-container
+        img.slides(src= image1)
+        img.slides(src= image2)
+        img.slides(src= image3)
+        img.slides(src= image4)
+        img.slides(src= image5)
+
+        button.slide-button.w3-button.w3-display-left(onclick="changeSlide(-1)") &#10094;
+        button.slide-button.w3-button.w3-display-right(onclick="changeSlide(+1)") &#10095;
+      div#button-div.button-container.mdl-grid
+        //buttons go here
+
+      div.text-container
+        h4= header1
+        p.no-margin= text1
+
+        h4= header2
+        p.no-margin= text2
+
+        h4= header3
+        p.no-margin= text3
+
+        h4= header4
+        p.no-margin= text4
+
+        h4= header5
+        p.no-margin= text5
+
+    div.mdl-cell--2-col.mdl-cell--hide-tablet.mdl-cell--hide-phone
+
+block scripts
+  script(src='/javascripts/zabytki.js')
+  script(src='/javascripts/slider.js')
+  script(src='/javascripts/helper.js')

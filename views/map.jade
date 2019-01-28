@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  div#map-container
+    div#google-map
+  
+
+block scripts
+  script(src='/javascripts/map.js')
+  script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDGB30umVMiBJSoCh034mSEz_qhDfkYZPw&callback=initMap')

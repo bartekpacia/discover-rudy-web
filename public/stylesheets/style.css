@@ -1,0 +1,151 @@
+.mdl-layout__content 
+{
+  flex: 1 0 auto;
+}
+
+.mdl-mini-footer 
+{
+  flex: 0 0 auto;
+  max-height: 100px;
+  padding: 40px;
+}
+
+.mid-section
+{
+	width: 20%;
+	margin: auto;
+}
+
+.mdl-grid.mdl-grid--no-spacing.padding
+{
+	padding: 8px 8px 8px 8px;
+}
+
+p.no-margin
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+a:link
+{
+	color: #424242;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #424242;
+	text-decoration: none;
+}
+
+#google-map
+{
+	width: 90%;
+	height: 800px;
+	margin: auto;
+}
+
+#map-container
+{
+	padding: 8px 8px 8px 8px;
+}
+
+.slides
+{
+	width: 100%;
+}
+
+.slide-button
+{
+	height: 20%;
+	color: white;
+	background-color: #66bb6a;
+	opacity: 0.95;
+}
+
+.button-container
+{
+	
+}
+
+.mybutton.mdl-cell
+{ 
+	height: 45px;
+}
+
+/*Main (index) cards*/
+#zabytki.normal-card > .mdl-card__title 
+{
+	background: url("/images/szpitalik_1.webp") center / cover;
+}
+
+#lasy.normal-card > .mdl-card__title
+{
+	background: url("/images/las.webp") center/cover;
+}
+
+#map.normal-card > .mdl-card__title
+{
+	background: url("/images/meandry.webp") center/cover;
+}
+
+#ciekawostki.normal-card > .mdl-card__title
+{
+	background: url("/images/ciekawostki.webp") center/cover;
+}
+
+#atrakcje.normal-card > .mdl-card__title
+{
+	background: url("/images/stacyjkowo_2.webp") center/cover;
+}
+
+#park.normal-card > .mdl-card__title
+{
+	background: url("/images/park.webp") center / cover;
+}
+
+/*Zabytki cards*/
+
+#opactwo.normal-card > .mdl-card__title
+{
+	background: url("/images/opactwo_1.webp") center/cover;
+}
+
+#szpitalik.normal-card > .mdl-card__title
+{
+	background: url("/images/szpitalik_1.webp") center/cover;
+}
+
+#stacja-kolei.normal-card > .mdl-card__title
+{
+	background: url("/images/stacja_kolei_1.webp") center/cover;
+}
+
+#cysters.normal-card > .mdl-card__title
+{
+	background: url("/images/cysters_1.webp") center/cover;
+}
+
+#unseren-helden.normal-card > .mdl-card__title
+{
+	background: url("/images/unseren-helden_1.webp") center/cover;
+}
+
+#magdalenka.normal-card > .mdl-card__title
+{
+	background: url("/images/magdalenka_1.webp") center/cover;
+}
+
+.normal-card > .mdl-card__title 
+{
+	color: #ffffff;
+	min-height: 210px;
+	max-height: 260px;
+}
+
+.normal-card.mdl-card 
+{
+	min-width: 220px;
+	min-height: 100px;
+}

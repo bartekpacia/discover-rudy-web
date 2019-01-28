@@ -1,0 +1,5 @@
+<button onclick="openURL('http://localhost:8888/mapa/?target=opactwo')" class="mybutton mdl-cell mdl-cell--4-col mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--primary mdl-color-text--white">Zobacz na mapie</button>
+
+<button onclick="openURL('http://www.rudy-opactwo.pl/')" class="mybutton mdl-cell mdl-cell--4-col mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent mdl-color-text--white">Strona internetowa</button>
+
+<button onclick="openURL('http://www.rudy-opactwo.pl/?p=oferta_zwiedzania')" class="mybutton mdl-cell mdl-cell--4-col mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--primary mdl-color-text--white">Oferty zwiedzania</button>

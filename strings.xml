@@ -1,0 +1,1004 @@
+<resources>
+    <string name="title_activity_maps">Mapa</string>
+
+    <string name="zobacz_na_mapie">Zobacz na mapie</string>
+    <string name="mapa">Mapa</string>
+
+    <string name="build">build 1033 -</string>
+    <string name="version">Wersja 1.1.3</string>
+    <string name="odkryj_rudy">Odkryj Rudy</string>
+    <string name="odkryj">Odkryj</string>
+    <string name="rudy">Rudy</string>
+    <string name="tworca">Stworzył Bartłomiej Pacia</string>
+    <string name="map_legend">Legenda mapy</string>
+    <string name="legenda_mapy">Legenda mapy</string>
+    <string name="ciekawe_miejsca">Ciekawe miejsca</string>
+    <string name="gastronomia">Gastronomia</string>
+    <string name="wkrotce">wkrótce</string>
+    <string name="propozycje">Kontakt: baftekp@gmail.com</string>
+    <string name="wydarzenia">Wydarzenia</string>
+    <string name="uruchom">Uruchom</string>
+    <string name="wiecej">Więcej informacji</string>
+    <string name="cancel">Anuluj</string>
+    <string name="oferta">Oferta</string>
+    <string name="cennik">Cennik</string>
+    <string name="menu">Menu</string>
+    <string name="cennik_i_godziny">Cennik i godziny otwarcia</string>
+    <string name="zdjecie_opactwa">Zdjęcie opactwa</string>
+    <string name="zdjecia_placu">Zdjęcie placu zabaw</string>
+    <string name="zdjecie_pociagu">Zdjęcie pociągu</string>
+    <string name="normalna">Normalna</string>
+    <string name="satelitarna">Satelitarna</string>
+    <string name="terenowa">Terenowa</string>
+    <string name="hybrydowa">Hybrydowa</string>
+    <string name="zdjecie_kamienia">Zdjęcie kamienia z napisem Weidmansheil</string>
+    <string name="zdjecie_kamienia_dzik">Zdjęcie kamienia z napisem Dzik</string>
+    <string name="strona_glowna">Strona główna</string>
+    <string name="informacje">Informacje</string>
+    <string name="ustawienia">Ustawienia</string>
+    <string name="o_opactwie_header">O opactwie</string>
+    <string name="klasztor_i_palac">Klasztor i pałac</string>
+    <string name="kosciol_klasztorny">Kosciół klasztorny</string>
+    <string name="your_profile">Twój profil</string>
+    <string name="your_profile_photo">Twoje zdjęcie profilowe</string>
+    <string name="refresh">Odśwież</string>
+    <string name="logged_out">Wylogowano</string>
+    <string name="test">Test</string>
+    <string name="gps_test">Test GPS</string>
+    <string name="begin_test">Rozpocznij test</string>
+    <string name="coordinates">Współrzędne</string>
+    <string name="your_coordinates">Twoje współrzędne</string>
+    <string name="latitude">Szerokość geograficzna</string>
+    <string name="longitude">Długość geograficzna</string>
+    <string name="gps_test_info">Jeśli współrzędne szybko się zmieniają, poczekaj chwilę, aż GPS złapie
+    stabilne połączenie. Następnie porównaj twoje współrzędne ze współrzędnymi na tablicy. Im mniejsza różnica,
+    tym twój GPS jest dokładniejszy.</string>
+    <string name="check_gps">Sprawdź swój GPS</string>
+    <string name="open_map">Otwórz mapę</string>
+    <string name="locating">Ustalanie lokalizacji…</string>
+    <string name="historia_miejscowosci">Historia miejscowości</string>
+    <string name="tak_nadeszla_do_rud_wolnosc">II wojna światowa na ziemi raciborskiej</string>
+    <string name="tak_nadeszla_wolnosc">Wkroczenie Armii Czerwonej</string>
+    <string name="jelen">Jeleń szlachetny</string>
+    <string name="zajac">Zając</string>
+    <string name="o_brzasku">O brzasku</string>
+    <string name="dudek">Dudek</string>
+    <string name="meandry_rudy">Meandry Rudy</string>
+    <string name="jenoty">Jenoty</string>
+    <string name="barwinek">Barwinek</string>
+    <string name="wrzosy">Wrzosy</string>
+    <string name="osobliwosci_przyrody">Osobliwości przyrody</string>
+    <string name="lisy">Lisy</string>
+    <string name="see_grab_on_map">Zobacz graba na mapie</string>
+    <string name="see_oak_cistercian_on_map">Zobacz Cystersa na mapie</string>
+    <string name="co_daje_las">Co daje las?</string>
+    <string name="lasy_po_pozarze">25 lat po pożarze</string>
+    <string name="zobacz_tez">Zobacz też</string>
+    <string name="rezerwat_lezczok">Rezerwat przyrody Łężczok</string>
+    <string name="kotewka">Kotewka orzech wodny</string>
+    <string name="ruda_w_kuzni">Ruda w okolicy Kuźni Raciborskiej</string>
+    <string name="lany_czosnku">Łany czosnku niedźwiedziego</string>
+    <string name="lasy_20_lat_po_pozarze">Lasy Rudzkie 25 lat po pożarze</string>
+    <string name="wieza_ppoz">Dostrzegalnia przeciwpożarowa</string>
+    <string name="drzewostany_w_roznych_fazach">Drzewostany w różnych fazach rozwojowych</string>
+    <string name="szkolka_w_nedzy">Szkółka kontenerowa w Nędzy</string>
+    <string name="co_daje_nam_las">Co daje nam las?</string>
+    <string name="drewno_">Drewno!</string>
+    <string name="oferty_zwiedzania">Oferty zwiedzania</string>
+    <string name="nie_pokazuj_wiecej">Nie pokazuj tego więcej</string>
+    <string name="od_nasionka_do_deski">Od nasionka do deski</string>
+    <string name="strona_nadlesnictwa">Strona Nadleśnictwa</string>
+    <string name="pozar_1992">Pożar w 1992</string>
+    <string name="that_is_great">To super!</string>
+    <string name="legendy">Legendy</string>
+    <string name="legenda_przerycie_header">Legenda o wsi Przerycie</string>
+    <string name="powstanie_klasztoru_1_header">Powstanie klasztoru - 1 wersja</string>
+    <string name="powstanie_klasztoru_2_header">Powstanie klasztoru - 2 wersja</string>
+    <string name="powstanie_klasztoru_3_header">Powstanie klasztoru - 3 wersja</string>
+    <string name="ksiazka_henryka">Książka Pana Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna”</string>
+    <string name="know_more">Dowiedz się więcej</string>
+    <string name="legend_explanation">Czyli jeśli znacznik jest czerwony, to jest to ciekawostka. A jeśli
+        znacznik jest niebieski, to jest to zabytek :-)</string>
+    <string name="bike_trail">Ścieżka rowerowa</string>
+    <string name="wolnosc_w_naturze_short_desc">Ta trasa powstała w 2015 roku. W zależności,
+        którą drogę wybierzemy, ścieżka ma 16 lub 23km długości.</string>
+    <string name="wolnosc_w_naturze_desc">Trasa powstała w ramach kampanii promocyjnej Lasów Państwowych i Ministerstwa
+        Środowiska „Wolność jest w naturze”. W ramach projektu w całej Polsce oznakowanych zostało kilkanaście
+        leśnych tras rowerowych. Ścieżka w Rudach została oficjalnie otwarta 26 września 2015 roku i prowadzi
+        przez leśnictwa Bargłówka, Kotlarnia i Borowiec.
+        \n
+        \nNa szlaku ustawiono kilkadziesiąt tablic z informacjami o gospodarce leśnej prowadzonej na podstawach ekologicznych
+        oraz o historii ich terenów związanych z działalnością Cystersów.</string>
+    <string name="see_magdalenka_on_map">Zobacz Magdalenkę na mapie</string>
+    <string name="how_to_login">Jak się zalogować?</string>
+    <string name="how_to_login_explanation">Po prostu dotknij „Zaloguj się” i wybierz konto Google, poprzez
+        które chcesz się logować w przyszłości. Jeśli pobrałeś aplikację ze Sklepu Google Play, to na pewno
+        masz konto Google.</string>
+    <string name="is_it_safe">Czy to bezpieczne?</string>
+    <string name="is_it_safe_explanation">Tak, jest to bezpieczne, ponieważ nie podajesz żadnych haseł.</string>
+    <string name="why_to_login">Dlaczego muszę się zalogować?</string>
+    <string name="why_to_login_explanation">Logowanie jest wymagane, by działały m.in informacje i powiadomienia</string>
+    <string name="about_app">O aplikacji</string>
+    <string name="no">Nie</string>
+    <string name="yes_continue">Kontynuuj</string>
+    <string name="entrance">Wstęp</string>
+    <string name="what_do_u_want_see">Co chcesz zobaczyć?</string>
+    <string name="cistercians_on_silesia">Cystersi na Śląsku</string>
+    <string name="cistercians_in_rudy">Cystersi w Rudach</string>
+    <string name="history_after_secularization">Historia zakonu po sekularyzacji</string>
+    <string name="cistercians_wtf">Historia cystersów na tle dziejów monastycyzmu</string>
+    <string name="thanks">Podziękowania: Tomasz Pacia, Tomasz Szczansny, gojgien, Damian Dudek, Dzyndzolina, Markus13,
+        Damian Marek, Oskar Górka, Grzegorz Chrośnik</string>
+    <string name="kamien_krolik">Kamień z napisem \"królik\" i wizerunkiem tego jakże pociesznego zwierzęcia</string>
+    <string name="kamien_dzik">Kamień z napisem \"dzik\" i wizerunkiek dzika</string>
+    <string name="to_understand_read_previous">Aby zrozumieć ten tekst, najpierw przeczytaj wersję 1 ;)</string>
+
+    <!--errors and alerts-->
+
+    <string name="information">Informacja</string>
+    <string name="error">Wystąpił nieznany błąd. Spróbuj ponownie</string>
+    <string name="error_connection">Wystąpił błąd. Upewnij się, że masz połączenie internetowe i spróbuj ponownie.</string>
+    <string name="location_error">Musisz zezwolić na korzystanie z lokalizacji, by zobaczyć swoją pozycję na mapie</string>
+    <string name="map_legend_hint">Kolor napisu oznacza kolor znacznika na mapie.</string>
+    <string name="coordinates_error">Musisz zezwolić na korzystanie z lokalizacji, aby możliwe było przeprowadzenie testu.</string>
+    <string name="location_error_2">Wystąpił błąd. Sprawdź, czy masz włączoną lokalizację.</string>
+
+    <string name="info_wiecej">Wersja systemu Android zainstalowa na Twoim urządzeniu jest starsza niż 5.0.
+        Wersje starsze niż 5.0 mają całkowicie inny interface i sposób działania. Możesz nadal używać Odkryj Rudy,
+        ale mogą wystąpić błędy, a jakość zdjęć i innej zawartości będzie niska.</string>
+
+    <string name="sources_touch">Dotknij adres, aby odwiedzić stronę</string>
+
+    <string name="no_internet_maps_alert">Do poprawnego wyświetlenia mapy wymagane jest połączenie z internetem.</string>
+    <string name="no_internet_content_alert">Aby wyświetlić tą zawartość, potrzebne jest połączenie z internetem.</string>
+    <string name="no_internet_title">Brak połączenia</string>
+    <string name="wlacz_wifi">Włącz WiFi</string>
+    <string name="wlacz_internet_mobilny">Włącz internet mobilny</string>
+    <string name="ignore">Ignoruj</string>
+    <string name="logout">Wyloguj się</string>
+    <string name="login">Zaloguj się</string>
+
+    <string name="no_connection_refresh">Nie udało się odświeżyć. Sprawdź swoje połączenie
+        internetowe i spróbuj ponownie.</string>
+
+    <string name="connection_info">Do wyświetlenia tej zawartości potrzebne jest połączenie internetowe.</string>
+
+    <string name="web_alert">Zaraz zostaniesz przekierowany na zewnętrzną stronę internetową. Kontynuować?</string>
+
+    <!--inne-->
+    <string name="inne">Inne</string>
+    <string name="zabytki">Zabytki</string>
+    <string name="historia">Historia</string>
+    <string name="atrakcje">Atrakcje</string>
+    <string name="jedzenie">Jedzenie</string>
+    <string name="ciekawostki">Ciekawostki</string>
+    <string name="kamienie_pamiatkowe">Kamienie pamiątkowe</string>
+    <string name="strona_wwww">Strona internetowa</string>
+    <string name="sources">Źródła</string>
+    <string name="source">Źródło</string>
+    <string name="cysters">Dąb Cysters</string>
+    <string name="dla_turystow">Dla turystów</string>
+    <string name="strona_internetowa">Strona internetowa</string>
+    <string name="zobacz_cennik">Cennik i godziny otwarcia</string>
+    <string name="unseren_helden">Pomnik "Unseren Helden"</string>
+    <string name="stacyjkowo">Stacyjkowo</string>
+    <string name="dotknij">Dotknij, aby dowiedzieć się więcej</string>
+    <string name="opactwo">Zespół Klasztorno-Pałacowy</string>
+    <string name="magdalenka">Kaplica św. Marii Magdaleny</string>
+    <string name="szpitalik">Szpital Juliusza Rogera</string>
+    <string name="pomnik_wojen">Pomnik wojen napoleońskich</string>
+    <string name="stacja_kolei">Wąskotorówka + Stacyjkowo</string>
+    <string name="park_linowy">Stacyjkowo</string>
+    <string name="buk_rudy">LKS Buk Rudy</string>
+    <string name="wycieczka_kolejka">Przejażdżka kolejką wąskotorową</string>
+    <string name="plac_zabaw">Plac zabaw</string>
+    <string name="pod_kasztanami">Restauracja Pod Kasztanami</string>
+    <string name="poddasze">Restauracja Poddasze</string>
+    <string name="kuki">Przystanek smaku Kuki</string>
+    <string name="laskowo">Hotel SPA Laskowo</string>
+    <string name="pod_lipami">Bar Pod Lipami</string>
+    <string name="buk">Uroczysko Buk</string>
+    <string name="zielona_klasa">Zielona Klasa</string>
+    <string name="hubertus">Uroczysko Hubertus</string>
+    <string name="wyspa">Wyspa Zapachów</string>
+    <string name="szklana_kapliczka">Szklana kapliczka</string>
+    <string name="park_2">Park przypałacowy</string>
+    <string name="magdalenka_short">Magdalenka</string>
+    <string name="hugo_quelle">Hugo Quelle</string>
+    <string name="schlossberg">Góra zamkowa</string>
+    <string name="dziewcze_groby">Uroczysko Dziewcze Groby</string>
+    <string name="weidmansheil">Weidmannsheil</string>
+    <string name="gora_wiktorii">Góra wiktorii</string>
+    <string name="dzik">Dzik</string>
+    <string name="pomnik_unseren_helden">Pomnik Unseren Helden</string>
+    <string name="reper">REPER</string>
+    <string name="platforma_widokowa">Platforma widokowa</string>
+    <string name="lawka_zakochanych">Ławka zakochanych</string>
+    <string name="hajderowka">Hajderówka</string>
+    <string name="maszyny_do_cwiczen">Urządzenia do ćwiczeń</string>
+    <string name="aleja_sdm">Aleja ŚDM</string>
+    <string name="uroczysko_orly">Uroczysko Orły</string>
+    <string name="spalony_las">Spalony Las</string>
+    <string name="lasy_rudzkie">Lasy Rudzkie</string>
+    <string name="wielki_grab">Wielki grab</string>
+    <string name="pomnikowy_grab">Pomnikowy grab</string>
+    <string name="krzyz_1927">Krzyż 1927</string>
+    <string name="darz_bor">Darz bór</string>
+    <string name="dziesiatak">Dziesiątak</string>
+    <string name="niedzwiedz">Niedźwiedź</string>
+    <string name="krolik">Królik</string>
+    <string name="boisko">Boisko</string>
+    <string name="rudek">Rudek</string>
+
+
+    <string name="tam_gdzie_odradza_sie_las">Tam, gdzie odradza się las</string>
+    <string name="powstanie_slaskie">III Powstanie Śląskie</string>
+    <string name="zdjecie_szpitaliku">Zdjęcie szpitaliku, budynku z czerwonej cegły</string>
+    <string name="zdjecie_kamienia_z_tabliczka">Zdjęcie kamienia z tabliczką</string>
+    <string name="zdjecie_rogera">Zdjęcie doktora Juliusza Rogera</string>
+    <string name="zdjecie_debu">Zdjęciu dużego dębu Cysters</string>
+    <string name="pomin">Pomiń</string>
+    <string name="profil">Profil</string>
+    <string name="zdjecie_parowozu">Zdjęcie parowozu</string>
+    <string name="no_connection">Brak połączenia</string>
+    <string name="zamknij">Zamknij</string>
+    <string name="back">Wróć</string>
+    <string name="view_video">Zobacz film</string>
+    <string name="downloading_data">Pobieranie danych&#8230;</string>
+    <string name="informations">Informacje</string>
+    <string name="help">Pomoc</string>
+    <string name="swipe_down_for_help">Przesuń w dół, aby zobaczyć pomoc</string>
+    <string name="informations_and_offers">Infomacje i ogłoszenia</string>
+    <string name="historia_wiecej">Dowiedz się więcej o historii</string>
+    <string name="zdjecie_parku">Zdjęcie parku w stylu angielskim</string>
+    <string name="sorry">Przepraszam</string>
+    <string name="section_unavailable">Ten dział nie jest jeszcze dostępny</string>
+    <string name="item_unavailable">Ta rzecz nie jest jeszcze dostępna</string>
+    <string name="ok">OK</string>
+    <string name="ok_with_thanks">OK, dzięki!</string>
+    <string name="zdjecie_krzyza">Zdjęcie krzyża</string>
+    <string name="open_source_libraries">Wolne Oprogramowanie</string>
+    <string name="zapadle_zamczysko_header">Zapadłe zamczysko</string>
+    <string name="see_castle_on_map">Zobacz zamczyskos na mapie</string>
+    <string name="pitch_photo">Zdjęcia boiska</string>
+
+    <string name="happy_monday">Miłego poniedziałku</string>
+    <string name="happy_tuesday">Miłego wtorku</string>
+    <string name="happy_wednesday">Miłej środy</string>
+    <string name="happy_thursday">Miłego czwartku</string>
+    <string name="happy_friday">Miłego piątku</string>
+    <string name="happy_saturday">Miłej soboty</string>
+    <string name="happy_sunday">Miłej niedzieli</string>
+
+    <string name="nadlesnictwo_wlasnosc">Tekst przygotowało Nadleśnictwo Rudy Raciborskie.</string>
+    <string name="zdjecia_tomasz_szczansny">Świetne zdjęcia udostępnił Tomasz Szczansny.</string>
+
+    <!--Opisy-->
+
+    <string name="kamienie_pamiatkowe_description">Lasy Rudzkie pełne są pamiątkowych kamieni, które
+        były ustawiane na przestrzeni wieków.  Odkryj kryjące
+        się za nimi historie.</string>
+
+    <string name="wyspa_na_szybko">Szczególną atrakcją przypałacowego parku w Rudach jest zespół
+        azalii pontyjskich znany jako „Wyspa Zapachów”. Azalie, obrastające wyspę dawnego Stawu
+        Szwajcarskiego, kwitną w maju a jesienią ich liście mienią się pomarańczowo-purpurowo. Na „wyspie”
+        znajduje się też kamień, który ma symbolizować serce jednej z księżniczek.</string>
+
+    <string name="opactwo_na_szybko">Pocysterski zespół klasztorno-pałacowy to prawdziwa wizytówka Rud.
+        Składa się on z kościoła, średniowiecznego klasztoru pocysterskiego oraz później dobudowanych
+        skrzydeł barokowej rezydencji pałacowej. Od 1998 roku zabytek jest restaurowany. </string>
+
+    <string name="o_opactwie">Początki zakonu cystersów sięgają roku 1098, kiedy to opat Robert de
+        Molesmens opuścił macierzysty klasztor benedyktynów w Molesmens i założył w Dijon w Burgundii
+        nowy zakon nawiązujący do pierwotnej, surowej reguły św. Benedykta. Zakon zdobył szybko popularność
+        nie tylko we Francji, ale też i w innych częściach Europy, docierając około 1140 roku do Jędrzejowa.
+        Stamtąd też, w połowie XIII wieku, sprowadzono pierwszych zakonników do Rud. Opactwo, choć
+        położone w granicach diecezji wrocławskiej, powstało jako filia małopolskiego Jędrzejowa. Za
+        fundatora uchodzi książę Władysław III.</string>
+
+    <string name="szpitalik_na_szybko">Zabytkowy XIX-budynek reprezentuje mieszany styl neoromański z
+        elementami neogotyku. Jego budowa została zainicjowana przez nadwornego lekarza księcia raciborskiego
+        dr Juliusza Rogera – wybitnego medyka, etnografa i kolekcjonera
+        górnośląskich pieśni ludowych. Budynek szpitala został wzniesiony w latach 1858–1861.
+    </string>
+
+    <string name="klasztor_i_palac_opis">Zespół klasztorno-pałacowy w Rudach składa się z kościoła będącego
+        trójnawową bazyliką, czworoboku średniowiecznego klasztoru pocysterskiego oraz później dobudowanych
+        skrzydeł barokowej rezydencji pałacowej. Część kościelna została odrestaurowana w latach 1994-1996.
+        Natomiast część klasztorno-pałacowa, będąca własnością Skarbu Państwa od okresu powojennego stopniowo
+        popadała w ruinę. W dniu 15 sierpnia 1998 roku została przekazana na własność diecezji gliwickiej.
+        Od tej pory prowadzi się tam stopniowe prace mające na celu rehabilitację i adaptację kompleksu na
+        potrzeby nowych funkcji użytkowych, które obiekt ma spełniać. Na dawną część klasztorną składają
+        się skrzydła w formie czworoboku przyległego do kościoła z wewnętrznym dziedzińcem i krużgankami
+        tworzącymi wirydarz. Zabudowania te są dwukondygnacyjne, w części zachodniej i północnej podpiwniczone.
+        Natomiast na część dawnej rezydencji pałacowej składają się skrzydła północno-zachodnie i północno-wschodnie.
+        Tworzą one zewnętrzny dziedziniec, częściowo otwarty od strony północnej, z którego prowadzą wejścia
+        do poszczególnych części obiektu. W otwarciu pomiędzy tymi skrzydłami usytuowany jest wjazd na
+        dziedziniec oraz dwa trasy zewnętrzne, z których rozciąga się widok na przyległy parkowy staw.
+        \n\nSkrzydło zachodnie przechodzi w skrzydło północne, na połączeniu których znajduje się wieża narożna.
+        Od strony dziedzińca do ściany wschodniej skrzydła zachodniego dobudowana została klatka schodowa.
+        Zabudowania te są trójkondygnacyjne. Poprzez skrzydło zachodnie prowadzi przejazd, stanowiący
+        kolejny wjazd na dziedziniec, tym razem od strony ul. Cysterskiej. \n\nNatomiast skrzydło wschodnie
+        jest dwukondygnacyjne, w części północnej podpiwniczone. Od strony wschodniej znajduje się wyjście
+        z budynku na teren ogrodu poprzez taras. Skrzydło wschodnie przechodzi w trójkondygnacyjne skrzydło
+        północno-wschodnie, na połączeniu których znajduję się wieża, pełniąca dawniej funkcję komunikacji
+        pionowej. Mimo iż zabudowania zespołu klasztorno-pałacowego mają różną ilość kondygnacji, ściany
+        zewnętrzne sięgają jednakowej wysokości, kończąc się wspólnym gzymsem. Osiągnięto to poprzez zróżnicowanie
+        poziomów posadowienia jak również różną wysokość kondygnacji w poszczególnych skrzydłach. Elewacje obiektu
+        mają wystrój barokowy, choć są bardzo zniszczone i w większości pozbawione tynków. Zachowały się jedynie
+        ich nieliczne fragmenty z szczątkami barokowych zdobień.</string>
+
+    <string name="juliusz_roger">Juliusz Roger</string>
+    <string name="historia_budynku">Historia budynku</string>
+
+    <string name="o_juliuszu_rogerze">Juliusz Roger</string>
+
+    <string name="szpitalik_dla_turystow">Budynek szpitala nie jest udostępniony do zwiedzania.</string>
+
+    <string name="historia_szpitaliku">Zabytkowy XIX-budynek reprezentuje mieszany styl neoromański z
+        elementami neogotyku. Jego budowa została zainicjowana przez nadwornego lekarza księcia raciborskiego
+        dr Juliusza Rogera – wybitnego górnośląskiego medyka, zapalonego etnografa i kolekcjonera
+        górnośląskich pieśni ludowych wydanych w formie zwartego zbioru nakładem znanej wówczas wrocławskiej
+        oficyny Skutcha w 1863 r. Szpitalik pełni obecnie funkcję siedziby Parku Krajobrazowego
+        „Cysterskie Kompozycje Krajobrazowe Rud Wielkich”, który został założony w 1993 r., a od 2000 r.
+        wchodzi w skład Zespołu Parków Krajobrazowych Województwa Śląskiego. Jego największą wartością
+        jest pocysterski zespół klasztorno-pałacowy. Zachowany do dziś, niewielki budynek szpitala w Rudach,
+        jest obecnie siedzibą Ośrodka Edukacyjnego Zespołu Parków Krajobrazowych „Cysterskie Kompozycje
+        Krajobrazowe Rud Wielkich”. Ośrodek realizuje zajęcia dotyczące ekorozwoju, metod ochrony przyrody,
+        zasad uprawiania turystyki bez szkody dla środowiska oraz walorów przyrodniczych, krajobrazowych,
+        historycznych i kulturowych parku krajobrazowego. Program dla szkół realizowany jest w formie pogadanek,
+        warsztatów, festynów i konkursów ekologicznych. W programie - między innymi - „Dymarki”, „Jarmark cysterski”
+        i „Ekopodchody”. Niedaleko budynku szpitala znajduje się kamień upamiętniający działalność doktora Rogera.</string>
+
+    <string name="juliusz_roger_historia">Juliusz Roger (1819-1865) to niewątpliwie jedna ze świetlanych
+        postaci związanych ze Śląskiem. Był Niemcem, urodzonym w Niedelstozen koło Ulm, a oprócz działalności
+        jako lekarz i przyrodnik dał się poznać jako pasjonat kultury ludowej oraz działacz społeczny.
+        Na Śląsku znalazł się w 1847 r., kiedy objął posadę przybocznego lekarza u księcia raciborskiego,
+        Wiktora I. Wkrótce też otrzymał tytuł Królewskiego Radcy Sanitarnego. Dr Roger, oprócz dbania o
+        zdrowie pary książęcej, zaangażował się w ofiarną pomoc najbiedniejszym, organizując na tych
+        terenach swoisty system lecznictwa publicznego. W roku 1858 założył w Rudach szpital św. Karola,
+        którego utrzymanie wzięła na siebie para książęca, Wiktor i Amelia. Leczono tu za niewielkimi
+        opłatami lub wręcz za darmo. Dr Roger zainicjował również budowę nowego szpitala w Rybniku,
+        ostatecznie wzniesionego kilka lat po jego śmierci, w wyniku starań księcia raciborskiego.
+        Zasłużony lekarz i społecznik, był również zbieraczem pieśni ludowych. Nauczywszy się języka
+        polskiego, zebrał 546 tutejszych pieśni, które (wraz z opracowaniem) wydał w 1863 r., pod
+        tytułem „Pieśni ludu polskiego w Górnym Szląsku”. Utrzymywał też kontakty z polskimi literatami
+        - Józefem Lompą i Pawłem Stalmachem. Co szczególnie szlachetne i godne szacunku: dr Roger jako
+        rodowity Niemiec otwarcie przyznawał, że Ślązacy są Polakami, czemu dawał wyraz w listach do
+        swych niemieckich przyjaciół.</string>
+
+    <string name="cysters_na_szybko">Dąb Cysters to wspaniały okaz dębu szypułkowego. Jest to najstarsze
+        i najbardziej okazałe drzewo w parku przypałacowym. Według najnowszych badań naukowców jego wiek wynosi
+        około 500 lat, wysokość - 26 m, obwód - 735 cm. Na dole pień jest pusty i stanowi lubianą przez dzieci kryjówkę.
+    </string>
+
+    <string name="reper_na_szybko">W tym miejscu możesz sprawdzić dokładność lokalizacji w Twoim smartfonie
+        lub innym urządzeniu posiadającym moduł GPS. Aby to zrobić, naciśnij przycisk \"Sprawdź swój GPS\"</string>
+
+    <string name="rudek_na_szybko">Rudek to młody dąb, który został zasadzony przez dzieci z przedszkola w Rudach. Jak
+        głosi napis na tabliczce, przedszkolaki się nim także opiekują.</string>
+
+    <string name="w_literaturze">W literaturze</string>
+
+    <string name="ciekawostka">Ciekawostka</string>
+
+    <string name="historia_cystersa">Tak opisał „Cystersa” w roku 1858 August Potthast, historyk, doktor
+        filozofii, w swoim dziele „Historia dawnego Klasztoru Cystersów w Rudach na Górnym Śląsku”,
+        wydanym z okazji sześćsetlecia założenia opactwa:
+        „Cicho wędruje zamyślony przybysz krętymi żwirowymi ścieżkami po parku i spogląda pełen zadumy
+        na stare, wysokie drzewa w pobliżu pałacu, spośród których jedno przyciąga szczególną uwagę;
+        mam na myśli olbrzymi dąb, który jak pomnik historii Rud wznosi się za pięknym kościołem i
+        którego liście szemrzą baśń o początkach istnienia klasztoru w czasach, gdy drzewo było zasadzone…”
+        Jeszcze wcześniej, bo w 1752 r. dostojne rozmiary „Cystersa” zauważył J. E. Ridinger, umieszczając
+        kontury dębu na rycinie wykonanej techniką mezzotinty, której tematem jest opactwo, a w szczególności obraz Matki
+        Boskiej Rudzkiej.</string>
+
+    <string name="cysters_plotka">Podobno kiedyś w środku dębu znajdowało się gniazdo szerszeni. Ale to tylko
+        plotka &#8230;</string>
+
+    <string name="magdalenka_na_szybko">Kaplica św. Marii Magdaleny znajduje się lesie, w odległości
+        około 9 kilometrów od Rud. Jest to zbudowany w całości z drewna, niewielki kościółek, który
+        prawdopodobnie powstał w 1784 roku. Miejsce to jest nazywane przez miejscowych \"Magdalenką\".  </string>
+
+    <string name="stacja_kolei_na_szybko">Kolej w Rudach pojawiła się w 1899 roku. Trasa z Raciborza do
+        Gliwic liczyła łącznie 50 kilometrów. Dzisiaj po dawnej kolei pozostał jedynie sześciokilometrowy
+        odcinek ze Stanicy przez Rudy do Paproci, reszta została rozkradziona. Obecnie stacja pełni funkcję
+        skansenu. Na stacji znajduje się też park linowy Stacyjkowo i bistro.</string>
+
+    <string name="historia_stacji_kolei">
+        <b>Kolej w Rudach pojawiła się 25 marca 1899 roku.</b> Oddano wówczas do użytku linię wąskotorową
+        (szerokość toru 785 mm) prowadzącą z Gliwic przez Nieborowice do Rud o długości 23,5 km. Był to
+        pierwszy etap projektu przewidującego doprowadzenie linii kolejowej aż do Raciborza.
+        28 lutego 1901 roku tor kolejowy dotarł do miejscowości Paproć. Natomiast 1 kwietnia następnego roku
+        oddano do eksploatacji dalszy odcinek z Paproci do Markowic Raciborskich. Ostatni fragment
+        linii budowanej etapami doprowadzono do Plani (obecnie Płoni) – dzielnicy Raciborza 17 maja
+        1903 roku. Cała trasa z Gliwic do Raciborza przez Bojków, Nieborowice, Pilchowice, Stanice,
+        Rudy, Szymocice, Nędzę i Babice liczyła łącznie 51 km. Już w pierwszym roku istnienia
+        kolej przewiozła 279 646 pasażerów i 10 009 ton towarów. Należy podkreślić, że był
+        to najwygodniejszy środek komunikacji pasażerskiej na trasie Gliwice–Racibórz. Podróż normalnotorowym
+        pociągiem osobowym, z konieczną przesiadką w Kędzierzynie trwała około 2 godzin i 20 minut.
+        Kolej wąskotorowa, mimo że czas jazdy miała porównywalny, to obsługiwała 10 miejscowości pozbawionych
+        do tej pory sprawnej komunikacji. Do 1945 r. przewozy dochodziły do 700 000 osób w skali roku,
+        natomiast w latach 1949-1963 nie spadały poniżej 1 miliona. Rekord zanotowano w 1954 r. kiedy
+        przewieziono 1 834 400 pasażerów. W 1991 r. – ostatnim roku funkcjonowania regularnego ruchu
+        pod szyldem PKP z usług tej kolei skorzystało 90 292 osób.
+
+        \nNiemal dokładnie w środku 51 kilometrowej
+        trasy zlokalizowano stację w Rudach Wielkich, największą na całej linii. Znalazły się tam
+        warsztaty naprawcze taboru, tory postojowe dla wagonów i lokomotyw, punkt obrządzania parowozów i
+        trójkąt torowy do ich obracania. Główny budynek dworcowy to dwupiętrowy obiekt na planie prostokąta
+        podpiwniczony z poddaszem. Dach wielospadowy pokryto dachówką. Piętro i poddasze pierwotnie było
+        wykonane z muru pruskiego. Ściany parteru były murowane z cegieł z boniowanymi narożnikami. W pomieszczeniach
+        tej kondygnacji ulokowano biuro zawiadowcy stacji, nastawnię, poczekalnię dla podróżnych, kasę obsługującą
+        ruch osobowy i towarowy oraz schronisko dla drużyn konduktorskich. Do południowej ściany budynku
+        przylegał parterowy magazyn towarowy wykonany także z muru pruskiego kryty dachem dwuspadowym.
+        Przy opisanych obiektach znajdował się peron jednokrawędziowy. Równolegle do peronu, naprzeciw budynku
+        dworcowego usytuowano dwie obszerne hale, z których jedną przeznaczono dla lokomotyw, drugą zaś dla wagonów.
+
+        \nDzisiaj po dawnej kolei pozostał jedynie sześciokilometrowy odcinek ze Stanicy przez Rudy do Paproci
+        i obiekty z układem torowym w Rudach. Główne budynki dworcowe na stacjach w Stanicy i Paproci
+        po zniszczeniach, których doznały w 1945 r., nieudolnie odbudowane zatraciły swój dawny wygląd.
+        Na stacji w Rudach budynek dworcowy także uległ zniszczeniu, a dzisiejszy obiekt posiada tylko
+        oryginalne piwnice. Z hal postojowych dla taboru pozostała jedynie lokomotywownia, ale już z
+        nowym, powojennym dachem. Hala wagonowni została rozebrana w 1969 roku. Cała linia kolejowa z
+        Gliwic do Raciborza Markowic została wpisana do wojewódzkiego rejestru zabytków i 1993 r.
+        jest chroniona prawem. W ten sposób uczyniono pierwszy krok dla ratowania tego niezwykle interesującego
+        systemu transportu szynowego, posiadającego bogatą, ponad stuletnią historią, a co najważniejsze –
+        zalety do dalszego wykorzystania w dotychczasowym charakterze przez następne dziesięciolecia.
+        Prowadzone ostatnio próby reaktywowania całej linii tej niezwykłej kolei od 2009 r. odbywają
+        się pod auspicjami Miejskiego Ośrodka Kultury, Sportu i Rekreacji w Kuźni Raciborskiej. Mają one
+        realne szanse powodzenia łącznie z powrotem na szlak parowozów.</string>
+
+    <string name="buk_na_szybko">Uroczysko Buk to dawne ulubione miejsce wypoczynku rodziny książęcej.
+        Znajduje się tu m.in. góra Wiktorii upamiętniająca córkę królowej angielskiej. Po wojnie urządzono tu
+        znany w okolicy ośrodek wypoczynkowy z basenem, hotelem, restauracją i muszlą koncertową. Ośrodek mocno
+        podupadł w latach 90. Obecnie miejsce to należy do osoby prywatnej, a cały kompleks popadł w ruinę
+        i niszczeje.</string>
+
+    <string name="unseren_helden_na_szybko">\"Unseren Helden\" (niem. Naszym Bohaterom) to kamienny
+        pomnik. Znajduje się on niedaleko szpitaliku Juliusza Rogera. Został wzniesiony, aby upamiętnić
+        mieszkańców Rud, którzy polegli na frontach I wojny światowej (1914 - 1918).</string>
+
+    <string name="plac_zabaw_na_szybko">Plac zabaw powstał w <b>2012</b> roku. W jego pobliżu znajdują się toalety,
+        centrum informacji turystycznej, parking oraz staw. Jest tam wiele atrakcji dla dzieci, m.in:
+        \n-\"Pająk\"
+        \n-Chuśtawki
+        \n-Karuzela
+
+        \nNa placu znajdują się też zadaszone ławki ze stolikami oraz… koło młyńskie.</string>
+
+    <string name="hubertus_na_szybko">Uroczysko „Hubertus”. Jedno z bardziej znanych miejsc Lasów Rudzkich.
+        Centralnym punktem uroczyska jest drewniana wiata z tarasem widokowym, zlokalizowana nad przepięknym,
+        śródleśnym stawem. Została ona zbudowana staraniem myśliwych – członków Koła Łowieckiego „Odyniec”
+        w Rudach, którzy obecnie wspólnie z leśnikami z Nadleśnictwa Rudy Raciborskie zajmują się utrzymaniem
+        wiaty. Hubertus to przede wszystkim miejsce występowania starych, wiekowych dębów, grabów i sosen.
+        Pamiętajmy, że drzewa, jak wszystkie żywe organizmy, kiedyś zakończą swój żywot. Dlatego też
+        bardzo ważne jest, aby odpowiednio wcześniej wyhodować młode pokolenie lasu, które za sto czy
+        dwieście lat będzie cieszyć następne pokolenia ludzi. Właśnie na Hubertusie możemy z bliska
+        obserwować młode dęby, buki, jodły i sosny, które dzięki właściwie wykonanym zabiegom hodowlanym
+        pokrywają znaczne obszary lasu. Legenda głosi, że staw na Hubertusie powstał w miejscu karczmy,
+        która przed wiekami, za grzechy właściciela, zapadła się pod ziemię. Podobno czasem, podczas
+        deszczowej pogody, można usłyszeć ludzkie jęki wydobywające się z toni wodnej.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tak_nadeszla_wolnosc_1"><b>W związku z przypadającą dzisiaj 68. rocznicą
+        wkroczenia wojsk radzieckich do Rud w trakcie II wojny światowej, przypominamy tamte chwile.
+        Ważne bowiem jest to, aby o takich historycznych zdarzeniach przyszłe pokolenia pamiętały po wsze
+        czasy. Powinno tak być dlatego, że jednym z najważniejszych elementów tożsamości narodowej społeczeństwa
+        jest jego historia. Dobra, czy też zła – ale prawdziwa - pisze Manfred Wrona.</b></string>
+
+    <string name="tak_nadeszla_wolnosc_2">Wśród żyjących pozostało już niewielu tych, którzy pamiętają
+        wszystko to, co zdarzyło się na naszej ziemi 67 lat temu, tj. w trakcie końcowych miesięcy II
+        wojny światowej, kiedy to wojenny front przesuwał się na zachód. Naszym zdaniem, prawdę o tych
+        czasach, trzeba bardzo wyraźnie wyartykułować i dobrze ją zapamiętać oraz przekazać młodym
+        pokoleniom. Jest tak dlatego, że przez wiele lat powojennej Polski, prawda ta była przedstawiana
+        w sposób nieprawdziwy. Prowadziło to wówczas do wypaczania kart historii tej ziemi – rudzkiej ziemi.</string>
+
+    <string name="tak_nadeszla_wolnosc_3"><b>Zbliżał się front…</b></string>
+
+    <string name="tak_nadeszla_wolnosc_4">W Rudach i okolicy do dzisiaj pozostały świadectwa tamtych czasów.
+        Kapitalnym tego przykładem były do niedawna ruiny rudzkiego kompleksu klasztorno-pałacowego i nasz
+        rudzki kościół, które dzisiaj nabrały już innego wymiaru, niż było to jeszcze całkiem niedawno.
+        To właśnie one były naocznymi świadkami a zarazem ofiarami tych wydarzeń i najboleśniej jak tylko
+        było można zostały nimi dotknięte.</string>
+
+    <string name="tak_nadeszla_wolnosc_5">Korzystając z tego co pamiętają ludzie starsi, oraz z tego
+        co zostało o tych czasach zapisane i zarchiwizowane w domowych archiwach, pragnę przedstawić
+        naszym czytelnikom prawdę o tamtych czasach. Postanowiłem przedstawić same ,,suche” fakty,
+        które to zostały zapisane w pamięci tych, którym Bóg dał przeżyć te wydarzenia, bez jakiegokolwiek
+        wyciągania wniosków. To pozostawiam naszym czytelnikom. Myślę, że osoby, które w tych wydarzeniach
+        uczestniczyły potwierdzą je, zaś ludzie młodzi przyjmą je jako przekaz do kart historii od ludzi
+        starszych.</string>
+
+    <string name="tak_nadeszla_wolnosc_6">W styczniu 1945 roku Rudy były wioską, jak wiele innych na
+        Górnym Śląsku, należącą do ówczesnego Państwa Niemieckiego. W te styczniowe dni, mieszkańcy
+        Rud z pełnym niepokojem spoglądali w kierunku wschodnim. Wieczorami, na niebie widoczne były
+        błyski i łuny, słychać było zbliżające się odgłosy ognia artyleryjskiego. Z dnia na dzień,
+        zjawiska te nasilały się i postępowały w kierunku naszej miejscowości – był to oczywisty dowód
+        na to, że zbliża się front. Mieszkańcy Rud zastanawiali się, co robić. Pozostać, czy też uciekać
+        przed zbliżającym się niebezpieczeństwem. Przed ludźmi pojawiła się wizja pozostawienia całego
+        dorobku życia i opuszczenia swoich rodzinnych ziem. Mnożyły się kolejne pytania – jak w te mroźne
+        dni i noce, udać się na drogi przepełnione uciekinierami wojskowymi i cywilnymi, wraz ze swoimi
+        dziećmi, dobytkiem i całym żywym inwentarzem. Większość mieszkańców Rud nie była związana z
+        dawnym reżimem i pozostała w swoich domach – myśląc, że zbliżające się wojska Radzieckie, to też ludzie.</string>
+
+    <string name="tak_nadeszla_wolnosc_7"><b>Nadszedł 26 styczeń 1945 roku…</b></string>
+
+    <string name="tak_nadeszla_wolnosc_8">W takiej scenerii nadszedł dzień 26 stycznia 1945 r. W godzinach
+        nocnych, w związku z tym iż od strony Sośnicowic, Bargłówki i Przerycia most na rzece był wysadzony,
+        wojska radzieckie skierowały się wzdłuż rzeki w stronę Brantolki. Tam jednak okazało się, że most
+        na Brantolce był zaminowany, co wpłynęło na to, że zajęcie Rud opóźniło się. Około godziny 6.15 rano,
+        ówczesny ksiądz proboszcz Emil Jatzek, który nie opuścił swoich parafian, odprawił z kilkoma wiernymi
+        ostatnią mszę we wspaniałym rudzkim kościele. W trakcie tej mszy, wojska radzieckie wkroczyły już
+        do Rud i znajdowały się już w okolicy mostka obok dzisiejszej betoniarni.</string>
+
+    <string name="tak_nadeszla_wolnosc_9"><b>A wraz z nimi radzieckie czołgi…</b></string>
+
+    <string name="tak_nadeszla_wolnosc_10">Przed radziecką kolumną pancerną, która ruszyła z Brantolki
+        został wysłany żołnierz niemiecki. Kiedy brakło mu sił, aby przed kolumną biec, upadł i został
+        stratowany przez nadjeżdżające czołgi. W chwili wkraczania wojsk radzieckich do Rud, na rynku
+        znajdowało się kilku żołnierzy niemieckich z oddziałów samoobrony z lekkim uzbrojeniem. W rejonie
+        rudzkiej poczty, na ulicy Raciborskiej pojawił się czołg niemiecki, któremu udało się zniszczyć
+        pierwszy czołg kolumny radzieckiej, po czym szybko wycofał się do lasu. Żołnierze, którzy zginęli
+        w tym czołgu zostali pogrzebani w miejscu, gdzie stał pomnik Eichendorfa przed szkołą. Jedyna
+        niemiecka kanonierka przeciwczołgowa, która znajdowała się na południowym skrawku lasu Rud,
+        została zniszczona przez radziecki pocisk. Losy załogi kanonierki są nieznane.</string>
+
+    <string name="tak_nadeszla_wolnosc_11">Żołnierze, którzy dostali się do niewoli radzieckiej stracili życie.
+        I tak np. na Przeryciu poddało się 4 młodych żołnierzy. W dniu następnym, mieszkańcy znaleźli ich ciała
+        z ranami postrzałowymi z tyłu głowy. W samych Rudach, do ostrej walki doszło na ul. Polnej, gdzie w
+        domku zabarykadowało się 3 żołnierzy niemieckich. Po ciężkich walkach żołnierzy ujęto, zastrzelono,
+        a dom został spalony.</string>
+
+    <string name="tak_nadeszla_wolnosc_12">Na ulicy Rybnickiej, w domu znajdowała się stacja łącznościowa.
+        Jej obsługa również została zabita a dom spalony. Na polach przy ul. Cegielskiej, obok ujęcia wodnego
+        zostało zastrzelonych 16 żołnierzy niemieckich. Na moście kolejowym na stacji Paproć 3 żołnierzy
+        zginęło od strzałów w tył głowy, po czym zostali wrzuceni do rzeki.</string>
+
+    <string name="tak_nadeszla_wolnosc_13">W kilka dni po zajęciu Brantolki z powodu bardzo silnych mrozów i
+        panującego zimna oraz głodu, z lasu wychodzili zmarznięci, wygłodniali żołnierze niemieccy, bez broni
+        w grupkach kilkuosobowych. W sumie było ich około 35-40 osób. Wszyscy zostali zatrzymani, po
+        czym zastrzeleni. Przed śmiercią musieli sobie wykopać grób na ciała. Wśród zabijających był
+        również radziecki komendant rezydujący na Brantolce. Jednemu z niemieckich żołnierzy udało się
+        zbiec z niewoli, lecz wkrótce po tym został schwytany, po czym zastrzelił go sam komendant,
+        postrzegany przez żołnierzy jako alkoholik.</string>
+
+    <string name="tak_nadeszla_wolnosc_14">Poza tymi przypadkami, zdarzały się jeszcze większe okrucieństwa.
+        W parku znaleziono rozebrane zwłoki żołnierza niemieckiego ze spalonym podbrzuszem. W okolicy Stodół
+        dwóch żołnierzy zostało schwytanych, zawinięto ich w koce, oblano benzyną i żywcem spalono. Zdarzało
+        się, że żołnierzy przywiązywano do konia, po czym strzałami z karabinu go płoszono. Stosowano
+        również okrutniejsze metody zabijania, takie jak wydłubywanie oczu i dobijanie kolba karabinu.</string>
+
+    <string name="tak_nadeszla_wolnosc_15">Na terenie Rud żołnierze radzieccy zabili również wiele osób
+        cywilnych. Jako metody zadawania śmierci wybierano: przecinanie żyłi powieszenie. Wiele ofiar
+        stanowiły dzieci i nieletni. W trakcie przejścia frontu przez Rudy, wykradziono i spalono 47
+        budynków wraz z kościołem i zamkiem.</string>
+
+    <string name="tak_nadeszla_wolnosc_16">W kilka dni po wkroczeniu wojsk radzieckich do naszej miejscowości,
+        wszyscy mężczyźni w wieku 17-55 lat musieli zgłosić się do 14-to dniowych robót i marszu do Łabęd
+        koło Gliwic. Tam znajdował się obóz zbiorczy dla jeńców. Wszyscy którzy tam trafili, zostali
+        wywiezieni do Związku Radzieckiego do Zagłębia Donieckiego Donbas. Wielu z nich do Rud nie
+        wróciło nigdy. Ci, którym udało się po wielu latach wrócić, byli tak chorzy, iż niebawem zmarli.</string>
+
+    <string name="tak_nadeszla_wolnosc_17"><b>Kiedy wojska radzieckie odeszły do Raciborza…</b></string>
+
+    <string name="tak_nadeszla_wolnosc_18">Kiedy przesuwający się front zatrzymał się w rejonie Raciborza,
+        w Rudach powstał punkt zbiorczy wojsk radzieckich. Wszyscy mieszkańcy Rud musieli opuścić swoje
+        domostwa i ewakuować się w stronę Brantolki i Stanicy. Na ulicach dojazdowych ludzie natrafiali
+        na duże kolumny czołgów, artylerii i piechoty. Szli w kierunku zachodnim. Na niebie można było
+        zaobserwować codziennie duże ilości radzieckich samolotów, które bombardowały Racibórz.</string>
+
+    <string name="tak_nadeszla_wolnosc_19">Taka sytuacja trwała aż do wiosny, do Świąt Wielkanocnych.
+        Wtedy to wojska radzieckie wkroczyły do Raciborza. Dopiero teraz okoliczna ludność mogła wrócić
+        do swoich domów. To co ludność zastała w swoich domach lub ruinach po powrocie do Rud, graniczyło
+        z okropnością. Rudy były wyrabowane, spalone i rozkradzione. Wszędzie leżały bomby, amunicja i
+        granaty. Natrafiono na rozkładające się szczątki żołnierzy, cywilów i zwierząt. W Rudach zapanował
+        wielki głód. Nie było żadnego zaopatrzenia w żywność. Brakowało wszystkiego, od zboża a na ubraniach
+        kończąc. Wszystkie magazyny stały się własnością wojsk radzieckich. Panujący głód stał się przyczyną
+        śmierci wielu ludzi, zwłaszcza osób starszych. W tym czasie wielką pomocą dla ludzi służyli: ks.
+        proboszcz Emil Jatzek, doktor Eugeniusz Wyrwoł oraz zakonnice z rudzkiego szpitala. Te osoby w
+        tych trudnych chwilach, ani na chwilę nie opuściły swoich współmieszkańców i parafian. Tak to
+        nadeszła do Rud \"wolność\". Teraz, z perspektywy dłuższego czasu, każdy z nas może ocenić we właściwy
+        sposób, to co działo się w Rudach 67 lat temu.</string>
+
+    <string name="tak_nadeszla_wolnosc_20">Musimy wyciągnąć z tej lekcji historii wnioski, po to, aby
+        ludzie ludziom, już nigdy nie zgotowali takiego losu. Pamiętać należy również o tym, że prawda
+        zawsze wyjdzie na jaw, bowiem zalega głęboko w naszych sercach i sumieniach. Jest to tylko kwestia czasu.
+        Szkoda tylko, że ta lekcja historii dotknęła naszych bliskich, z których wielu już nigdy za
+        życia nie zobaczymy, bo ktoś im je odebrał…</string>
+
+    <string name="dziewcze_groby_na_szybko"><b>Było to dawno, dawno temu...</b>
+        \nW karczmie w Rudach odbywały się zabawy, wesela i inne uroczystości. Na zabawy te często przychodzili młodzi ludzie nawet z odległych wsi.
+        Pewnego razu na zabawę przyszły trzy dziewczyny.
+        Już nikt nie pamięta czy były one z Bargłówki, czy z Tworoga, czy z jakiejś innej wsi.
+        Jedną z nich upatrzył sobie pewien młody rzeźnik. Jednak ona nie odpowiadała na jego zaloty, ponieważ \"źle mu z oczu patrzyło, a z buta sterczał nóż\".
+        Kiedy dziewczyny po raz kolejny nie chciały tańczyć z nim i z jego kompanami, strasznie im naubliżał i wygrażał.
+        Przestraszone dziewczyny wcześniej niż zwykle opuściły karczmę i same poszły przez las do domu.
+        Jednak urażeni młodzieńcy śledzili je i ruszyli za nimi.
+        W trakcie ucieczki dziewczyny zostały dogonione i bestialsko zabite.
+        \nJak powiadali starzy ludzie, na miejscu zbrodni długo znajdowały się groby trzech dziewczyn…</string>
+
+    <string name="dziewcze_groby_na_szybko_2"><b>Dziś pamięć o zamordowancyh dziewczynach zachowała się jedynie
+    w postaci nazwy leśnego uroczyska.</b></string>
+
+    <string name="magdalenka_wydarzenia">Każdego roku, w trzecią niedzielę lipca na Magdalence odbywa się odpust
+        ku czci św. Marii Magdaleny. </string>
+
+    <string name="kamien_dzik_na_szybko">Kamień ten został postawiony na pamiątkę polowania, które odbyło się
+        w lasach rudzkich 15 listopada 1780 roku. Upolowano wtedy dzika ważącego 5 cetnarów (1 cetnar pruski to
+        około 51,5 kg).
+        \nMiejsce to znajduje się przy drodze zwanej Zakazaną. Jej nazwa wiąże się z tym, że kiedyś wstęp na
+        nią był zabroniony, ponieważ książę raciborski i jego goście nie życzyli świadków swoich polowań.</string>
+
+    <string name="aleja_sdm_na_szybko">Aleja Światowych Dni Młodzieży została posadzona 21 lipca 2016 roku przez
+        młodzież m.in z Paragwaju, Słowacji i Polski. Zasadzone drzewa to dęby szypułkowe, które są potomkami
+        potężnego dębu Cysters rosnącego w rudzkim parku.</string>
+
+    <string name="pomnik_wojen_na_szybko">Pomnik wybudowano w 1913 roku. W 1969 lub 1970 został rozebrany
+        i wywieziony w nieznanym kierunku.</string>
+
+    <string name="pomnik_wojen_historia">Rud nie ominęła zawierucha wojen napoleońskich. Pamiątką z tego okresu
+        są szczątki cmentarza w parku rudzkim, w miejscu zwanym potocznie \"szwedzką górą\" lub \"szwedzkim cmentarzem\".
+        W 1813 roku została zawiązana koalicja prusko-rosyjska. W bitwie pod Lützen 2 maja 1813 roku, wojska sprzymierzone
+        poniosły klęskę. 26 sierpnia tegoż roku te same wojska zwyciężyły Napoleona pod Katzbach. Ranni z obu bitew przewiezieni
+        zostali do lazaretu (dawne określenie szpitala wojskowego, zwłaszcza polowego) znajdującego się w klasztorze rudzkim.
+        Żołnierze, którzy pomarli \"w jednej pochowani są mogile\".
+        \nCmentarz zlokalizowano w parku obok \"szklanej kapliczki\"
+        na \"szwedzkiej górze\" i ustawiono przy nim drewniany krzyż. W 1913 roku wybudowano pomnik z pieniędzy uzyskanych
+        podczas loterii prowadzonej w okręgu rybnickim i mieście Rybnik.
+
+        \nAutorem pomnika był jeden z rybnickich budowiczych. Zachowała się widokówka, na której napis brzmi:
+        \n
+        \n\"Pomnik dla tych, którzy w roku 1813 w Rudach zmarli na skutek odniesionych ran w walce o wolność\"
+        \n
+        \n W 1969 lub 1970 roku pomnik rozebrano i wywieziono w nieznanym kierunku. Pozostały jedynie nieliczne ślady gruzu.
+        Potraktowano go zapewne za niemiecką spuściznę tych ziem i zniszczono. Zwieńczenia pomnika znajdują sie w Szkole
+        Podstawowej w Rudach. Są zadbane i zakonserwowane. Dobrze by było, aby w parku rudzkim odtworzyć ponownie
+        jakiś ślad po nieistniejącym pomniku. W końcu to kawałek historii Europy.
+    </string>
+
+    <string name="title_activity_big_image">BigImageActivity</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+    <string name="lasy_rudzkie_1">Położone u wrót Bramy Morawskiej <b>Lasy Rudzkie</b> są jednym z największych,
+        zwartych kompleksów leśnych na Górnym Śląsku, rozciągającym się pomiędzy Rybnikiem, Kędzierzynem-Koźlem,
+        Raciborzem i Gliwicami. Lasy te administrowane są przez nadleśnictwa: <b>Rudy Raciborskie, Rybnik, Rudziniec</b>
+        i <b>Kędzierzyn</b>, podlegające Regionalnej Dyrekcji Lasów Państwowych w Katowicach.</string>
+
+    <string name="lasy_rudzkie_2">Dominującym gatunkiem w tutejszych lasach jest sosna pospolita, której
+        towarzyszą dęby, brzozy, buki, modrzewie oraz rzadziej olsze, jawory, jesiony, lipy, wiązy i graby.
+        Szczególnie cenne są fragmenty borów jodłowo-sosnowych, w których sędziwe i ostatnie na tym terenie jodły
+        osiągnęły ponad 250 lat. Przemierzając kilometry ścieżek i duktów leśnych, nierzadko napotkamy jelenie, daniele,
+        sarny i dziki. Pamiętajmy wtedy, że to my jesteśmy gośćmi w ich domu.</string>
+
+    <string name="lasy_rudzkie_3">Sercem tego obszaru są Rudy, niewielka miejscowość z bogatą historią
+        sięgającą mroków średniowiecza, a dokładnie roku 1258, w którym przybyli w te strony bracia cystersi.
+        Zgodnie ze swą regułą zakonną nowy klasztor zbudowali nad brzegiem rzeki zwanej dziś Rudą, pośród
+        rozległych, dziewiczych wówczas lasów. Cystersi wnieśli olbrzymi wkład w rozwój gospodarczy Śląska.
+        Po dziś dzień zachowały się w leśnych ostępach ślady po wydobyciu rudy darniowej, z której wytapiali żelazo.
+        Oprócz tego rozwijali hodowlę ryb w stawach oraz rolnictwo. Z pozyskiwanego z lasów drewna wypalali
+        węgiel drzewny i potaż.</string>
+
+    <string name="lasy_rudzkie_4">W celu ochrony walorów przyrodniczych oraz bogatego dziedzictwa historycznego
+        regionu powołano w 1993 roku <b>Park Krajobrazowy Cysterskie Kompozycje Krajobrazowe Rud Wielkich</b>.
+        Objął on swym zasięgiem większość lasów nadleśnictw Rudy Raciborskie i Rybnik, w tym największy w województwie
+        rezerwat przyrody Łężczok, słynący z malowniczych stawów wykorzystywanych do hodowli karpia i stanowiący
+        ostoję dla ponad 200 gatunków ptaków.</string>
+
+    <string name="lasy_rudzkie_5">Osobliwościami przyrodniczymi godnymi uwagi są z pewnością pomnikowe
+        drzewa, a wśród nich sędziwy dąb szypułkowy \"Cysters\", rosnący w zabytkowym parku nieopodal
+        siedziby Nadleśnictwa Rudy Raciborskie. Jego wiek oceniony jest na około 500 lat oraz wymiary: 737 cm obwodu
+        i 26  m wysokości, pozwalają zakwalfikować go do najokazalszych drzew w województwie śląskim.</string>
+
+    <string name="lasy_rudzkie_6">Nieopodal wsi Jankowice, na skraju lasu rośnie okazały grab pospolity
+        uznany za najgrubsze drzewo swojego gatunku w całych Lasach Państwowych. W jego pobliże łatwo dotrzeć,
+        poruszając się drogą wojewódzką 919 wiodącą z Rud w kierunku Raciborza. Możesz też użyć poniższego
+        przycisku.</string>
+
+    <string name="lasy_rudzkie_7">Wspomniana już rzeka Ruda, przecinająca ze wschodu na zachód Lasy Rudzkie,
+        malowniczo meandrująca przez leśne kompleksy, nie bez powodu została wybrana Rzeką Roku 2015 w plebiscycie
+        organizowamym przez Klub Gaja.</string>
+
+    <string name="lasy_rudzkie_8">Wspomniana już wcześniej rzeka Ruda, przecinająca ze wschodu na zachód
+        Lasy Rudzkie, malowniczo meandrująca przez leśne kompleksy, nie bez powodu została wybrana Rzeką
+        Roku 2015 w plebiscycie organizowanym przez Klub Gaja.</string>
+
+    <string name="po_pozarze_1">Pomimo katastrofalnego pożaru, który w upalne, sierpniowe lato 1992 roku strawił
+        ponad 9000 hektarów lasu, w wyniku którego zginęły 3 osoby (2 strażaków i osoba, która zginęła w wypadku
+        samochodowym, do którego doszło na terenie akcji) i który zapisał się na zawsze w pamięci mieszkańców okolicznych miejscowości,
+        Lasy Rudzkie dzięki staraniom leśników znów są zielone i ponownie tętnią życiem. Coraz trudniej jest
+        w nich odnaleźć ślady minionej tragedii.</string>
+
+    <string name="po_pozarze_2">Przemierzając leśne ostępy, z pewnością natkniemy się za to na różne systemy
+        ochrony przeciwpożarowej, takie jak dostrzegalnie, zbiorniki, liczne punkty czerpania wody oraz
+        wiele kilometrów pasów przeciwpożarowych.</string>
+
+    <string name="po_pozarze_3">Z pamiętnego pożaru ocalała drewniana kapliczka nazywana Magdalenką, do której
+        dotrzemy, poruszając się pieszo lub na rowerze szlakiem „Tam, gdzie odradza się las”, utworzonym w 2015 roku w ramach akcji
+        „Wolność jest w naturze”, prowadzonej przez Lasy Państwowe.</string>
+
+    <string name="co_daje_las_1">Odwiedzając las, spotykamy zapewno ułożone przy drogach stosy drewna oraz
+        przygotowane do wywozu do tartaku długie pnie ściętych drzew, nazywane przez leśników dłużycami.
+        Główną przyczyną wycinania drzew w lesie jest konieczność stworzenia dogodnych warunków do rozwoju
+        młodemu pokoleniu, które gwaratnuje zachowanie trwałości lasu na danym obszarze. Często są to także
+        względy sanitarne - dzięki wycięciu chorych drzew chroni się las przed nadmiernym, niekontrolowanym
+        rozwojem owadów czy grzybów.</string>
+
+    <string name="co_daje_las_2">Nigdy o wycięciu danego drzewa czy całego drzewostanu nie decydują względy
+        ekonomiczne. Drewno to ważny surowiec, wykorzystywany w wielu gałęziach gospodarki. Jest on w pełni
+        naturalny, w stu procentach odnawialny i ulega całkowitej biodegradacji.</string>
+
+    <string name="co_daje_las_3">Pamiętajmy również, że współczesne lasy wraz z przemysłem związanym z przerobem
+        drewna zapewniają pracę wielu ludziom. Fundamentalną zasadą gospodarki leśnej w naszym kraju jest to,
+        że w miejsce wyciętych drzew sadzone są nowe, najpóźniej po pięciu latach. W samym tylko Nadleśnictwie
+        Rudy Raciborskie co roku wysadza się około milion młodych drzewek.</string>
+
+    <string name="schlossberg_na_szybko">W czasach książęcych na wzniesieniu tym był punkt widokowy z chatką
+        Wiktora, a w czasie wojny niemieckie składy broni. Niedaleko stąd znajdowała się kiedyś leśniczówka \"Lichtenstein\".
+        Legenda mówi, że dawno temu rozbójnicy wybudowali tu zamek. Zajmowali się napadaniem na podróżników podążającym
+        starym traktem na miejskie targowiska. Pewnego razu zabili chłopa, który z powodu biedy sprzedał ostatniego konia
+        i wracał do domu z pieniędzmi. Jego żona, na drugi dzień rankiem, poszła do lasu i znalazła na drzewie powieszone
+        ciało męża. Jej żal był tak wielki, że krzyknęła w stronę zamku: niech cierpią ci, którzy zabili mojego chłopa.
+        Wtem ziemia się rozstąpiła i zamek się zapadł.
+        \nInna legenda mówi o połączeniu jakie miałoby istnieć pomiędzy Górą Zamkową, a klasztorem w Rudach. Na chwilę obecną
+        wzniesienie wykorzystywane jest przez leśników jako miejse świątecznych spotkań przy ognisku. Często też
+        tutaj pieczeniem kiełbasek kończą się kuligi.
+        Na górze łączy się również 7 dróg i znajduje się punkt pomiarowy. Wzniesienie najlepiej prezentuje się wieczorem -
+        podczas zachodu słońca</string>
+
+    <string name="zielona_klasa_na_szybko">„Zielona Klasa” – drewniana wiata wybudowana w 2003 roku staraniem
+        Nadleśnictwa Rudy Raciborskie przy wsparciu finansowym Powiatowego Funduszu Ochrony Środowiska w Raciborzu.
+        Służy przede wszystkim do prowadzenia przez leśników zajęć z zakresu edukacji przyrodniczo-leśnej społeczeństwa.
+        Jest także głównym punktem szlaku rowerowego „Wolność jest w Naturze”, który został utworzony w 2015 roku.
+        Ciekawostką jest fakt, iż betonowa posadzka „Zielonej Klasy” liczy już kilkadziesiąt lat. Przed wielu
+        laty w tym miejscu zbudowano drewniany domek, który został później rozebrany w niewyjaśnionych do dziś okolicznościach.</string>
+
+    <string name="hugo_quelle_na_szybko">Uroczysko „Hugo Quelle” to uroczy zakątek Lasów Rudzkich zlokalizowany w Leśnictwie Krasiejów.
+        Myśliwi z Koła Łowieckiego „Odyniec” w Rudach odtworzyli to miejsce kilkanaście lat temu. Ponadto zbudowali tu
+        ławki i stoły, które stoją w cieniu starych lip. Legenda głosi, że Hugo był leśniczym na tym terenie,
+        a woda ze źródełka ma właściwości odmładzające. Przed II wojną światową teren ten był ogrodzony i służył do hodowli zwierzyny łownej.</string>
+
+    <string name="lawka_na_szybko">„Ławka Zakochanych” to wyjątkowe miejsce w Lasach Rudzkich. To tutaj zjeżdżają
+        zakochani, aby sprawdzić, czy deklarowane uczucie jest prawdziwe! Jak to zrobić? To bardzo proste. Wystarczy
+        usiąść z ukochaną osobą na ławce i wygodnie się oprzeć. Jeśli po 180 sekundach ławka się nie złamie, to
+        znaczy, że uczucie jest prawdziwe.
+        \nReklamacje nie będą uwzględniane.</string>
+
+    <string name="platforma_widokowa_na_szybko">Miejsce wypoczynku zlokalizowane pośród młodego lasu,
+        który leśnicy posadzili po ostatnim pożarze. Zamiarem pomysłodawcy było umożliwienie turystom
+        obserwowanie procesu odtwarzania, wzrostu rozwoju lasu niejako „od środka”. Ponadto w bezchmurne
+        noce jest to doskonałe miejsce do obserwacji gwiazd. Przy ścieżce prowadzącej do platformy
+        zlokalizowano kilka tablic poświęconych pożarom lasów. Wybór tego miejsca nie był przypadkowy.
+        W ostatnich 100 latach okoliczne lasy były niszczone przez pożary co najmniej pięciokrotnie.
+        Ostatnio 25 kwietnia 2013 r…</string>
+
+    <string name="hajderowka_na_szybko">Ryszard Haider, emerytowany leśniczy Leśnictwa Bargłówka. Przepracował
+        w Lasach Rudzkich 50 lat. Wiata ta, nazwana jego imieniem, została zbudowana ku jego pamięci i dla
+        zorganizowania w tym miejscu uroczystości pożegnalnych. Ten fragment pożarzyska był wyjątkowym miejscem
+        dla Pana Ryszarda i dlatego właśnie tu postanowiono upamiętnić Jego osobę. Obok wiaty znajduje się
+        ostatnie drzewo posadzone przez Leśniczego, Buk Ryszard. Obecnie jest miejscem, w którym turyści,
+        zwłaszcza rowerowi, chętnie odpoczywają. Ciekawostką jest data znajdująca się z tyłu kamienia: 26.08.1992 r. -
+        to dzień wybuchu wielkiego pożaru w Lasach Rudzkich.</string>
+
+    <string name="spalony_las_na_szybko">Uroczysko „Spalony Las” utworzone zostało po ostatnim pożarze lasu,
+        który miał miejsce 25 kwietnia 2013 roku. Podstawową funkcja tego miejsca jest ukazywanie turystom
+        długotrwałych skutków zniszczenia lasu przez ogień oraz naturalnych procesów odtwarzania ekosystemów leśnych.
+        W celu umożliwienia odpoczynku zbudowano w tym miejscu ławki i stoły oraz zamontowano kilka tablic edukacyjnych,
+        dzięki którym można zapoznać się z ciekawymi zjawiskami, jakie zachodzą w lasach. Ciekawostką tego miejsca
+        jest duży kamień z podziękowaniami dla Pana Józefa Ślązka, Leśniczego Leśnictwa Kotlarnia, który wiosną
+        2017 roku przeszedł na zasłużoną emeryturę. Droga, przy której zlokalizowano kamień nazywa się „Granicza”, ponieważ
+        stanowi granicę pomiędzy województwami śląskim i opolskim.</string>
+
+    <string name="szklana_kapliczka_na_szybko">Zima to czas, gdy rudzki park przypałacowy okryty śnieżną
+        pierzyną pogrążony jest w spokojnym śnie, by z nadejściem wiosny zbudzić się z nowymi siłami. I gdzieś
+        tam, w leśnej gęstwinie - w towarzystwie dwóch piaskowych kamieni - przysypany białym puchem stoi stary,
+        drewniany krzyż.
+        \nFigurka Chrystusa umieszczona na nim jest osłonięta od śniegu daszkiem, w którym na pierwszy rzut oka
+        możemy dostrzec cechy stylu bawarskiego. Nad Chrystusem umieszczona jest tabliczka z napisem „INRI”,
+        a nieco niżej znajduje się wazonik, do którego ktoś czasem włoży kwiaty. Pod kwietnikiem z obu stron krzyża
+        widnieją daty: z przodu 18 września 1939, a z tyłu 5 listopada 1844 oraz 1863.
+        \nWedług niepisanego przekazu miejsce to nazywano „Szklaną kapliczką”, gdyż przed postawieniem krzyża
+        znajdowała się tam kapliczka ze szkłem.
+        \nKrzyż ten postawiła na pewno księżna raciborska po śmierci swojego Wiktora Albrechta, który poległ pod
+        Warszawą w trakcie kampanii wrześniowej. Fakt ten uwiecznia data znajdująca się z przodu krzyża. Postawienie
+        jego było dla księżnej bardzo ważne, gdyż jak wspomina Pan Hasenberg z Rud, przy betonowania fundamentu
+        czuwała leśna straż, aby dzieci idące ze szkoły w Rudach na Przerycie nie uszkodziły go.
+        \nJedna z tylnych dat prawdopodobnie upamiętnia dzień, kiedy to w miejscu gdzie stoi dziś krzyż, znarowiły
+        się książęce konie i wraz z wozem wpadły do stawu, który wówczas był po drugiej stronie drogi. Obecnie
+        jest wyschnięty.
+        \n
+        \nTekst z książki Pana Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna” </string>
+
+    <string name="gora_wiktorii_opis">Idąć do ośrodka wypoczynkowego „Buk” (obecnie w ruinie), po lewej stronie
+        drogi, spotykamy wysokie wzniesienie. Wszyscy mówią, iż nazywa się ono „Góra Wiktorii”. Obiekt ten powstał
+        bezpośrednio przed przyjazdem księżnej pruskiej Wiktorii do Rud. Piaskowe wzgórze zwane dotąd „Galgenberg”(„Golgota”)
+        zostało na polecenie księcia raciborskiego Wiktora obłożone kamieniami polnymi, specjalnie sprowadzonymi Odrą.
+        W dniu 27 października 1866 roku na pamiątkę zakończenia swego ośmiodniowego pobytu w Rudach, księżna Wiktoria posadziła
+        na wzgórzu rosnącą do dziś lipę.
+        \nWydarzeniu temu poświęcono tablicę z następującym napisem:
+
+        \n„Wiktoria, księżna pruska, posadziła tę lipę 27.10.1866 roku”
+        \n
+        \nTekst z książki Pana Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna”</string>
+
+    <string name="krzyz_1927_opis">Był początek lutego 1927 roku. Książę raciborski Wiktor August postanowił umilić sobie
+        czas wybierając się na polowanie. Dzień zapowiadał się wspaniale. Książę zastrzelił już parę sztuk zwierzyny.
+        Naraz w krzakach mignął mu ogromny dzik. Nie namyślając się długo, książę pociągnął za spust i zwierzę powaliło\
+        się na ziemię. Przerażenie ogarnęło księcia gdy dobiegł do ofiary - postrzelił bowiem nie dzika, lecz swego furmana,
+        biorącego udział w nagonce. Księcia zmylił ciemny kożuch, w który ubrany był nieszczęsny człowiek.
+        \nNa pamiątkę tego nieszczęśliwego wypadku ustawiono w tym miejscu duży, betonowy krzyż. Stoi on na skrzyżowaniu
+        leśnych dróg. U podstawy krzyża znajduje się napis: 5.II.1927 RIP
+        \nJeżeli będziemy więc kiedyś w tej okolicy, zatrzymajmy się na chwilę przy krzyżu i pomyślmy o pechowym
+        furmanie i jego księciu…
+        \n
+        \nTekst z książki Pana Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna”</string>
+
+    <string name="legenda_o_przeryciu">Przerycie to przysiółek Rud. Mieszkał tam kiedyś człowiek, który sprzedał swą
+        duszę diabłu. Kiedy śmiertelnie zachorował, wyrzuty sumienia, które go bardzo dręczyły ukazały mu jego los w piekle.
+        \nŻałując swojej obietnicy jaką dał diabłu, pragnął przyjąć sakrament chorych. Jego żona, która znała męża udręki,
+        poszła do klasztoru w Rudach z prośbą, aby jeden z mnichów przyszedł do ciężko chorego męża będącego w niezgodzie
+        z Bogiem. \nMnich szybko przybył i dowiedział się o tym strasznym fakcie. Chcąc zadośćuczynić prośbom chorego chciał
+        udać się do kaplicy klasztornej po Najświętszy Sakrament. Jednak drogę zastąpił mu diabeł starając się go przekonać,
+        że ta dusza należy do niego, gdyż nabył ją za pokaźną sumę i dlatego powinien ją mieć dla siebie.
+        \nNa to mnich odpowiedział, że jego obowiązkiem jest walczyć o każdą duszę, która pragnie Chrystusa. Diabeł
+        jednak długo nie ustępował, aż mnich zaproponował mu układ mówiąc: „Ja idę do klasztoru po Najświętszy
+        Sakrament, a ty w międzyczasie przeryj dookoła to pole. Gdy skończysz do mego powrotu tu dusza jest twoja
+        a w innym przypadku moja”. Diabeł przystał na taką propozycję i ostro wziął się do pracy, natomiast
+        mnich czym prędzej poszedł do klasztoru. Diabeł pracował zawzięcie, coraz szybciej, czas biegł szybko,
+        pot z niego leciał obficie, oczy błyszczały mu od wysiłku i ciągłego wypatrywania mnicha. \nGdy już
+        pozostało mu niewiele do zrobienia, rozmarzył się i wyobrażał sobie jak to niesie duszę chorego do
+        piekła. \nW tym momencie zjawił się w szalonym tempie wóz konny i zatrzymał się koło drzwi chorego. Wyskoczył z
+        niego mnich, spojrzał na diabła, który jeszcze pracy nie skończył. Diabeł widząc, że przegrał z Wielka złością rzucił łopatę o ziemię i podążył do piekła. Dusza chorego była uratowana.
+        Od tego czasu ta mała osada nazywa się Przerycie.
+        \n
+        \nTekst z książki Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna”</string>
+
+    <string name="legenda_zapadle_zamczysko">Wśród lasów otaczających Rudy znajduje się wzgórze. Na nim stał
+        przed wiekami ponury zamek. Mieszkał w nim rycerz, rabuś wraz ze swymi kamratami.
+        \nDo ich zajęć należały napady, biesiady i hulanki. Po każdej wyprawie przywozili na zamek uprowadzone z
+        okolicznych wsi dziewczęta, którymi zabawiano się i które najczęściej traciły tam życie.
+        \nKiedyś w czasie trwania jednej z takich hulanek, rozszalała się straszna burza. Pioruny uderzały raz
+        po raz, a deszcz lał strumieniami. Pod wpływem powtarzających się uderzeń piorunów, zamek rozpadł się.
+        Pod jego gruzami zginęli wszyscy rozbójnicy i ich niewinne ofiary.
+        \nMiejsce to omijano odtąd szerokim łukiem przekazując wieść z pokolenia na pokolenie, że złe siły mają je w swej mocy.
+        \n
+        \n
+
+        \nTekst z książki Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna”</string>
+
+    <string name="legenda_klasztor_1">Książę Władysław zabłądził podczas polowania w lesie, do którego wybrał się wraz z towarzyszami z zamku raciborskiego.
+        Kiedy przywoływania towarzyszy książęcym rogiem okazały się bezskuteczne, strudzony książę zasnął pod drzewem. We śnie ukazał
+        mu się ojciec Benedykt, cysters zJędrzejowa i rzekł do księcia; „Bóg bliski jest tych, którzy go szukają ”. Wtem
+        też konary i wierzchołki drzew związały się w sklepienie, a pnie stały się filarami świątyni, w której
+        aktualnie odbywało się nabożeństwo. Książę obudził się na polanie ze źródełkiem po środku. Sen uznał za
+        znak i postanowił wznieść tu świątynię. Nie wiedział jednak dokładnie gdzie zlokalizować zamierzoną budowlę.
+        Wtem wiatr zerwał z głowy księżnej Eufemii welon, który opadł na polanie. Para książęca uznała to za znak Boga i
+        w tym miejscu postanowiono wybudować kościół. Książę szybko wyprawił do Jędrzejowa swego kapelana, który sprowaził
+        stamtąd zakonników , a ci wybudowali tu kościół z klasztorem. Źródełko zaś długo istniało na dziedzińcu klasztornym
+        a woda zniego posiadała właściwości lecznicze.
+        \n
+        \n1 wersja spisana przez Emanuela Pospela w 1653 roku
+        \n
+        \nTekst z książki Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna”</string>
+
+    <string name="legenda_klasztor_2">Było to w czasach, gdy u nas panował książę Władysław - władca ziemi raciborskiej.
+        Wybrał się on pewnego razu na polowanie. Wyjechał ze swego zamku w Raciborzu wraz ze świtą i w planie
+        miał penetrowanie lasów po obu brzegach Odry. Lasy te pełne były dzikiego zwierza stąd też humor
+        dopisywał a powodzenie polowania było pewne. Myśliwi początkowo trzymali się razem, potem jednak,
+        kiedy każdy upatrzył swoją zdobycz, to pognał w innym kierunku. Tak też uczynił książę. Odjechali tak
+        daleko, że wszyscy się pogubili. Nikt nie orientował się, gdzie jest.
+        \nPodchody za zwierzyną trwały bardzo długo i nagle ku zdumieniu wszystkich, spotkali się W jednym miejscu, na niewielkiej polanie z wiekowym dębem,
+        gdzie tryskało źródełko. Spotkanie to uznał książę za znak Boga i postanowił w tym miejscu wybudować klasztor.
+        Teren dokładnie oznakowane i przysłano tu robotników, aby las wykarczowali i oczyścili pod przyszłą budowę.
+        \nPo powrocie do domu książę o wszystkim opowiedział żonie Eufemii. Z nią też i z księżmi udał się do cudownego miejsca.
+        Lecz niestety nie można było się dogadać, co do lokalizacji kościoła i klasztoru. Księża mieli swoje przepisy.
+        Eufemia chciała też postawić na swoim a książę chciał, aby lokalizacja kościoła była po jego myśli. Wtem zerwał się wiatr…
+        \n
+        \nTekst z książki Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna”</string>
+
+    <string name="legenda_klasztor_3">Książę Władysław polując w swoich lasach tak zapędził się za zwierzyną, że
+        zgubił się tracąc całkowicie kontakt ze swoimi towarzyszami. Zastała go noc. Noc była ciemna i bezksiężycowa.
+        Książę modlił się i obiecał . Panu Bogu, że jeżeli odnajdzie swoich towarzyszy i drogę do domu, (co
+        wtedy dla tych, którzy zabłądzili nie było łatwe) postawi świątynię jako wotum za odnalezienie się.
+        \nPo straszliwej nocy, kiedy pierwsze promienie słońca zaczęły się już przebijać przez ciemności nocy,
+        usłyszał książe najpierw dalekie, a potem coraz bliższe granie rogów myśliwskich. Po niedługim czasie
+        był już ze swoimi towarzyszami.\nPo powrocie do domu opowiedział swojej żonie Eufemii o swojej
+        przygodzie i ślubowaniu, które złożył. Ona też niezwłocznie doprowadziła do wyprawy w miejsce
+        przygody swego męża. Jakie było ich zdumienie, gdy po przybyciu na miejsce, ujrzeli na leśnej
+        polanie, która nocą wydawała się taka straszna, tryskające krystaliczną wodą źródełko. Decyzja
+        była natychmiastowa. Jednakże powstał problem lokalizacji kościoła i klasztoru. Księżna chciała
+        postawić na swoim, książę też i w sumie nie mogli się dogadać. Wtem zerwał się wiatr…
+        \n
+        \nTekst z książki Henryka Siedlaczka „Rudy - Mała Wielka Ojczyzna”</string>
+
+    <string name="urzadzenia_do_cwiczen_na_szybko">Urządzenia te znajdują się na placu przy ZSO Rudy od
+        początku 2017 roku. Są publicznie dostępne i każdy chętny może z nich śmiało korystać. Przez
+        gimnazjalistów zwane maszynownią.</string>
+
+    <string name="powstanie_slaskie_desc">11 listopada 1918 roku Polska odzyskała niepodległość, jednak o losach Śląska miał
+        zadecydować plebiscyt, który odbył się 20 marca 1920 r. Plebiscyt wygrały Niemcy, m. in. głosami 200
+        tysięcy emigrantów mieszkających poza granicami Śląska, jednak po stronie polskiej opowiedziała się
+        większość ludności na prawym brzegu Odry. W związku z powyższym Wojciech Korfanty zaproponował ustanowienie
+        granicy na Odrze. Ponieważ podział ten nie został zaakceptowany przez państwa Ententy, w nocy 2/3 maja 1921
+        roku wybuchło III Powstanie Śląskie.
+        \nPowstanie rozpoczęła akcja „Mosty”, w  trakcie której wysadzono mosty na Odrze od Koźla, aż za Opole,
+        co uniemożliwiło Niemcom przesłanie posiłków swoim oddziałom na Górnym Śląsku. Jednocześnie Grupa Operacyjna
+        "Południe” zablokowała Racibórz i całą linię Odry po Bierawę. W trakcie powstania grupa ta powstrzymywała
+        skutecznie demonstracyjne działania zaodrzeńskich zgrupowań nieprzyjaciela staczając niekiedy zacięte walki.
+        \nRankiem 9 maja oddziały powstańców rozpoczęły natarcie na Kędzierzyn. W nocny opanowano węzeł kolejowy,
+        a w dniu następnym port w Koźlu. Po pierwotnych sukcesach powstańców doszło do pewnej stabilizacji działań.
+        Jednak 2 maja Niemcy atakując przeważającymi siłami zajęli Górę św. Anny i włamali się głęboko w pozycje wojsk
+        powstańczych. 4 czerwca Niemcy rozpoczęli ofensywę w rejonie Góry św.Anny, m.in. zdobyli Kędzierzyn i port kozielski.
+        \n11 czerwca siły walczące rozdzielono pasem demarkacyjnym, ale całkowite wstrzymanie działań zbrojnych
+        nastąpiło dopiero 25 czerwca, po podpisaniu rozejmu przez stronę niemiecką.</string>
+
+    <string name="orly_na_szybko">Uroczysko Orły było w trakcie Powstań Śląskich miejscem zbiórek oddziałów
+        powstńczych. Jego nazwa wywodzi się od charakterystycznego układu dróg. Obecnie znajduje się tu pamiątkowy
+        kamień, ławki i tablica informacyjna.</string>
+
+    <string name="park_na_szybko">Przypałacowe Założenie Ogrodowe w Rudach jest położone w zachodniej części
+        Parku Krajobrazowego „Cysterskie Kompozycje Krajobrazowe Rud Wielkich”. Na powierzchni 95 ha w latach
+        1822-1846, stworzono ogród przypałacowy w stylu angielskim. Wyodrębnić tu można walory przyrodnicze,
+        kompozycyjne i powiązania kompozycyjne. Do elementów przyrodniczych można zaliczyć drzewa - pomniki przyrody
+        (ok. 20 egzemplarzy), skupiny drzew będące głównym tworzywem kompozycji ogrodowej oraz zespoły łąkowe.
+        Walory kompozycyjne ogrodu przypałacowego stanowią zespoły wnętrz parkowych (labirynt leśny, kameralny
+        ogród dendrologiczny, wielki salon parkowy i inne) oraz elementy wnętrza (ściany-utworzone przez zieleń
+        wysoką; podłoga-trawiasta darń lub lustro wody; sufit-nieboskłon lub całkowite pokrycie koronami drzew).
+        W powiązaniach kompozycyjnych można wyróżnić pięć osi w układzie gwiaździstym, którego centrum stanowi zespół pałacowy.
+        W parku można zwiedzać korzystając z trzech wariantów dendrologicznych ścieżek dydaktycznych.</string>
+
+    <string name="grab_na_szybko">To drzewo to najgrubszy grab zwyczajny w Polsce. Ma 402cm obwodu i 24m
+        wysokości. Rośnie w 80-letnim drzewostanie sosnowym z domieszką brzozy i świerka, znajduje się
+        kilkanaście metrów od skraju lasu.</string>
+
+    <string name="weidmansheil_na_szybko">\"Weidmannsheil\" w wolnym tłumaczeniu znaczy to samo co nasze \"Darz Bór\".
+        A dokładniej \"Weidmannsheil\" to powitanie, z pozdrowieniem \"Udanych łowów\". I nic w tym dziwnego,
+        gdyż kamień ten jest tu ustawiony od czasów panowania na tych terenach rodziny książąt raciborskich,
+        przy dukcie leśnym za osadą Szybki, którędy wiódł trakt w stronę Jankowic i do odseparowanego rewiru
+        leśnego, będacego zwierzyńcem do hodowli i polowań, zwanego Thiergarten. W latach powojennych, gdy
+        w Polsce nastały czasy wczesnego PRL-u, pewien leśnik przewrócił ten historyczny kamień wyrytym
+        napisem do ziemi, by wyglądał jak zwykły głaz i nie został zlikwidowany. Był wówczas taki trend,
+        by wszystko co niemieckie na tych ziemiach niszczyć. W takiej pozycji przeczekał kilkadziesiąt
+        lat. Gdy PRL okrzepł, kamień znowu został postawiony we właściwej pozycji, a później na przygotowanym
+        pagórku. Na pagórku został ustawiony za zgodą ówczesnego Nadleśniczego, ale z zastrzeżeniem,
+        że dla "poprawności politycznej", trzeba zrobić coś podobnego po polsku. I tak powstał kamień
+        \"Darz Bór\", który do dziś można oglądać po prawej stronie leśnej drogi \"Kotlarska\" zaraz za
+        przejazdem kolejowym, na początku trasy rowerowej \"Wolność jest w naturze\".
+        \n
+        \nNa podstawie opracowania użytkownika gojgien z serwisu geocaching.com</string>
+
+    <string name="thiergarten">Thiergarten</string>
+
+    <string name="thiergarthen_desc">\"Thiergarten\" (historyczna nazwa widoczna już tylko na starych mapach)
+        był to XIX-wieczny zwierzyniec książąt raciborskich (niem. Herzog von Ratibor), urządzony w części lasów raciborskich między
+        Jankowicami, Rudą Kozielską a Kuźnią Raciborską. Familia hodowała tu dorodne sztuki leśnej zwierzyny,
+        które potem odstrzeliwali jej zacni goście. Mieszkańców obowiązywał zakaz wstępu.</string>
+
+    <string name="darz_bor_na_szybko">\"Darz bór\" to tradycyjne powitanie leśników i myśliwych, którzy witają się,
+        żegnają się lub życzą sobie powodzenia na polowaniu: "niech cię bór obdarza, niech przynosi ci dary".
+        Mimo swej archaicznej formy, powstało w latach 20. XX wieku, a stworzył je Stanisław Wyrwiński.</string>
+
+    <string name="dziesiatak_na_szybko">W tym miejscu 15.09.1958 roku leśniczy Ryszard Hajder upolował
+        jelenia z porożem o 10 odrostach, nazywanego dziesiątekiem. Na kamieniu widać inicjały łowczego.</string>
+
+    <string name="niedzwiedz_na_szybko">W tym miejscu 1 grudnia 1771 roku został zastrzelony ostatni niedźwiedź
+        Lasów Rudzkich o wadze 4,5 centnara przez ówczesnego nadleśniczego Hansa Carla. W pobliżu kamienia
+        są ławki i stoły, przy których można odpocząć podczas rowerowej lub piszej wyprawy.</string>
+
+    <string name="krolik_na_szybko">Czy to dom rzeczonego królika? A może, znając genezę ustawiania takich
+        kamieni, raczej jego mauzoleum? Niestety, nigdzie nie ma dokładnych danych na
+        temat powodu ustawienia tego kamienia.
+        \nNiemniej stanowi on ciekawy, a zarazem mało znany obiekt w Lasach Rudzkich.
+        \n
+        \nNa podstawie opracowania użytkownika gojgien z serwisu geocaching.com</string>
+
+    <string name="boisko_na_szybko">Nowe boisko szkolne było budowane od czerwca do sierpnia 2017 roku. Wcześniej
+        znajdowało się w tym miejscu boisko trawiaste. Wejście wolne dla każdego.</string>
+    <string name="tablica_przy_poczatku_sciezki">Tablica przy początku ścieżki</string>
+
+</resources>
